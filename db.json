@@ -1,0 +1,69 @@
+{
+
+    "zone":[
+        {
+          "zoneId": 1,
+          "zoneName": "KA. DHAKA NORTH CITY CORPORATION AREAS"
+        },
+        {
+          "zoneId": 2,
+          "zoneName": "KH. DHAKA SOUTH CITY CORPORATION AREAS"
+        },
+        {
+          "zoneId": 3,
+          "zoneName": "GH. OLD DHAKA (HIGHLY DENCED AREA)"
+        },
+        {
+          "zoneId": 4,
+          "zoneName": "GH.DHAKA SOUTH CITY CORPORATION EXTENDED AREAS"
+        },
+        {
+          "zoneId": 5,
+          "zoneName": "GH.DHAKA NORTH CITY CORPORATION EXTENDED AREAS"
+        },
+        {
+          "zoneId": 6,
+          "zoneName": "CA. NARAYANGANJ CITYCORPORATION AREAS"
+        },
+        {
+          "zoneId": 7,
+          "zoneName": "CHA. SAVAR PAUROSAVA AREAS"
+        },
+        {
+          "zoneId": 8,
+          "zoneName": "JA. GAZIPUR CITY CORPORATION AREAS (40 WARDS)"
+        },
+        {
+          "zoneId": 9,
+          "zoneName": "JH. GAZIPUR CITY CORPORATION AREAS (17 WARDS)"
+        },
+        {
+          "zoneId": 10,
+          "zoneName": "EO. TARABO PAURASHAVA AREAS"
+        },
+        {
+          "zoneId": 11,
+          "zoneName": "TA. KERANIGANJ AREAS"
+        },
+        {
+          "zoneId": 12,
+          "zoneName": "TH.NARAYANGANJ AREA UNIONS"
+        },
+        {
+          "zoneId": 13,
+          "zoneName": "DA. SAVAR AREAS UNIONS"
+        },
+        {
+          "zoneId": 14,
+          "zoneName": "DH. RUGANJ KALIGANJ UNIONS"
+        },
+        {
+          "zoneId": 15,
+          "zoneName": "N. OTHER PAURASAVA AREAS"
+        },
+        {
+          "zoneId": 16,
+          "zoneName": "PA. BARIA UNION AREAS"
+        }
+      ]
+}
